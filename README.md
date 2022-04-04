@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fahadkhaann
-- 👀 I’m interested in ...Flutter
+- 👀 I’m interested in ... Graphic Desighning
 - 🌱 I’m currently learning ...OOP
 - 💞️ I’m looking to collaborate on ...any platform
 - 📫 How to reach me ... fahadkiramatkhan@gmial.com
